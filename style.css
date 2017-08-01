@@ -1,0 +1,20 @@
+.opscale{padding-left:70px; padding-right:70px;}
+#branding {padding-top: 20px; padding-bottom: 20px;border-bottom: 1px solid #eee;border-top: 7px solid #444751;}
+#logo{margin-left: -34px;margin-bottom:5px;}
+#what-we-do{font-size: 16px; padding-top: 20px;padding-bottom: 20px;border-bottom: 3px solid #444751;color:#444751;}
+#about{padding-left:0px;margin-bottom:5px;}
+#technology{padding-left:0px;}
+#footer {margin-top:100px;background-color: #444751;height: 140px;color: #eee;padding-top: 3px;}
+.opscale-tags {background-color: #444751;border-radius: 0px;}
+#copyright{font-size: 9px; font-family: sans-serif;}
+.discuss{padding:0px;}
+.section{font-size: 14px; font-weight: bold;}
+.icon {font-size: 27px; }
+.we{margin-left: -29px;color:#444751; margin-top: 70px; padding-bottom: 20px;}
+.client{
+  margin-right:7px;
+  margin-left: -15px;
+  border-radius: 0px;
+  filter: grayscale(100%);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
