@@ -1,11 +1,11 @@
 .opscale{padding-left:140px; padding-right:140px;}
 #branding {padding-top: 20px; padding-bottom: 20px;border-top: 16px solid #444751;}
 #logo{margin-left: -34px;margin-bottom:5px;}
-#what-we-do{font-size: 25px; padding-top: 20px;padding-bottom: 20px;border-bottom: 7px solid #444751;color:#444751;}
+#what-we-do{font-size: 21px; padding-top: 20px;padding-bottom: 20px;border-bottom: 7px solid #444751;color:#444751;}
 #about{padding-left:0px;margin-bottom:5px;}
 #technology{padding-right:0px; text-align: right;}
 #footer {margin-top:100px;background-color: #444751;height: 140px;color: #eee;padding-top: 3px;}
-.opscale-tags {background-color: #fff;border-radius: 0px;color:#444751;border: 1px solid #444751; font-size: 11px;font-weight: normal;padding:7px;}
+.opscale-tags {background-color: #fff;border-radius: 0px;color:#444751;border: 1px solid #444751; font-size: 9px;font-weight: normal;padding:5px; cursor:pointer;}
 .opscale-tags:hover{background-color: #444751;color:#fff;}
 #copyright{font-size: 9px; font-family: sans-serif;}
 .discuss{padding:0px;}
